@@ -16,11 +16,7 @@
     <br>
     <p>
         <em>
-            Soy un joven apasionado por los Bots de Whatsapp, actualmente uso <strong>Javascript</strong>, <strong>Typescript</strong>, <strong>HTML</strong> y <strong>CSS</strong> para mis proyectos, aún sigo aprendiendo y mejorando mis habilidades.
-            <br>
-            <br>
-            Actualmente tengo un proyecto Personal llamado <strong>Peak Zero</strong>, es un Bot con variedades de
-            comandos desarrollado desde 0, si quieres conocerlo puedes visitar la página web oficial en <a href="https://peak-zero.danixl-js.xyz" target="_blank">aquí</a>
+            Espero encuentres lo que buscas :)
         </em>
     </p>
     <br>
@@ -37,17 +33,6 @@
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" title="CSS">
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="NodeJS">
 </div>
-
-<div align=center>
-    <br>
-    <h2>
-        Si te gusta mi trabajo, ¡puedes apoyarme en Ko-Fi! ❤️
-    </h2>
-    <a href="https://ko-fi.com/DanixlJs" target="_blank">
-        <img width="500px" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="ko-fi" title="Ko-Fi"/>
-    </a>
-</div>
-
 <div>
     <img width="100%" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake" title="Snake"/>
 </div>
