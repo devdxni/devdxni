@@ -9,7 +9,7 @@
 </div>
 
 <div align=center>
-    <img width="150px" src="https://komarev.com/ghpvc/?username=DanixlJs&label=Visitas+Totales:&color=00FFFF&style=flat" alt="views" title="Views">
+    <img width="150px" src="https://komarev.com/ghpvc/?username=devdxni&label=Visitas+Totales:&color=00FFFF&style=flat" alt="views" title="Views">
 </div>
 
 <div align=center>
@@ -24,7 +24,7 @@
 
 <div align=center>
     <h2>
-        Los Lenguajes que más Uso
+        Las Herramientas que más uso
     </h2>
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="Javascript">
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="Typescript">
